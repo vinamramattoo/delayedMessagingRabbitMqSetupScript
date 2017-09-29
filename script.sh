@@ -3,7 +3,7 @@
 
 sudo apt-get update
 
-sudo apt-get install wget
+sudo apt-get install -y wget
 
 ## erlang version pinning
 echo "#/etc/apt/preferences.d/erlang
